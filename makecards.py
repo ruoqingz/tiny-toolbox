@@ -1,3 +1,4 @@
+# convert txt file to csv to make cards in Anki
 import pandas as pd
 import re
 import csv
